@@ -1,6 +1,6 @@
-<?php namespace laravel\Services;
+<?php namespace App\Services;
 
-use laravel\User;
+use App\User;
 use Validator;
 use Illuminate\Contracts\Auth\Registrar as RegistrarContract;
 
